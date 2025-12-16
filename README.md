@@ -26,9 +26,6 @@ Hello! I’m **Sunil Pawar**, a **beginner web developer** with a strong interes
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" />
-</p>
 
 ---
 
