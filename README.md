@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20👋I'm%20Sunil%20Pawar!%20&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi👋,%20I'm%20Sunil%20Pawar!%20&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
 <h2 align="center">💻 Beginner Web Developer</h2>
