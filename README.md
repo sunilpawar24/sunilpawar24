@@ -1,22 +1,24 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20👋&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Sunil%20Pawar!%20👋&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
 <h2 align="center">💻 Beginner Web Developer</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-✨ I'm a **beginner web developer** learning how to build modern and responsive websites.  
-🚀 Passionate about turning ideas into real projects.  
-📚 Currently focused on **HTML, CSS, and JavaScript**.  
-🌱 Learning step by step and enjoying the process!
+Hello! I’m **Sunil Pawar**, a **beginner web developer** with a strong interest in building clean, responsive, and user-friendly websites.
+
+- 🌱 Currently learning **HTML, CSS, and JavaScript**
+- 🚀 Enjoy turning ideas into functional web projects
+- 📚 Focused on improving fundamentals and best practices
+- 🎯 Committed to consistent learning and growth
 
 ---
 
@@ -27,40 +29,40 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" />
 </p>
 
 ---
 
 ## 🎯 Current Goals
 
-- 🔹 Build small web projects every week  
-- 🔹 Improve JavaScript fundamentals  
-- 🔹 Learn responsive design & accessibility  
-- 🔹 Start using frameworks like **React**  
-- 🔹 Contribute to open source someday  
+- Build and deploy small web projects regularly  
+- Strengthen JavaScript fundamentals  
+- Learn responsive design and web accessibility  
+- Start working with modern frameworks like **React**  
+- Contribute to open-source projects in the future  
 
 ---
 
-## 📂 Projects (Coming Soon 👀)
+## 📂 Projects
 
-🚧 I'm working on:
+🚧 **Currently working on:**
 - Personal Portfolio Website  
-- Simple To-Do App  
-- Landing Page Designs  
+- Simple To-Do Application  
+- Responsive Landing Pages  
 
-_(More cool stuff soon!)_
+📌 *Projects will be added as they are completed.*
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,18 +70,18 @@ _(More cool stuff soon!)_
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
+    <img src="https://img.shields.io/badge/Twitter-Updates-black?style=for-the-badge&logo=twitter" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="220" />
 </p>
 
 <h3 align="center">🚀 Thanks for visiting my profile!</h3>
