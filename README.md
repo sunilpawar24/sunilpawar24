@@ -80,9 +80,6 @@ Hello! I’m **Sunil Pawar**, a **beginner web developer** with a strong interes
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="220" />
-</p>
 
 <h3 align="center">🚀 Thanks for visiting my profile!</h3>
 
